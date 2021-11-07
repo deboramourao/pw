@@ -56,20 +56,20 @@ p {
 	color: white;
 	margin-right: auto;
 	margin-left: auto;
-	max-width: 1000px;
+	max-width: 900px;
 }
 
 .pcinza {
 	margin-right: auto;
 	margin-left: auto;
-	max-width: 1000px;
+	max-width: 900px;
 }
 
 #pcopyright {
 	color: white;
 	margin-right: auto;
 	margin-left: auto;
-	max-width: 1000px;
+	max-width: 900px;
 	font-size: 12px;
 	padding-top: 20px;
 }
@@ -95,6 +95,7 @@ p {
 .imagens1 {
 	width: 500px;
 	height: auto;
+	margin-top: 20px;
 }
 
 .legenda {
