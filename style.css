@@ -44,6 +44,15 @@ p {
 	color: #97989C;
 }
 
+#ptitulo {
+	font-family: "Roboto Slab", Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 16px;
+	color: #50575D;
+}
+
 .pbranco {
 	color: white;
 	margin-right: 200px;
